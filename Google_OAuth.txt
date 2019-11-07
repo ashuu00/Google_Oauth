@@ -1,0 +1,20 @@
+Go to console.developers.google.com for getting google api and 
+services page
+after that create new project and their search for google+ api.
+Their go to credentials and then create one client id.
+Consent Screen is the screen which appears when the user tries to take
+permission from us.
+
+MODALS==> They are used to store and manage the databases
+with mogo we can have as many random properties
+of a instance.
+but mongoose wants to define all properties using schema
+we dont require require for mongo class because hte server many
+get confused with multiple instances of it.
+
+Express doesnt handle cookies so we install
+cookie sessions
+
+use concurrently in package script to run react
+and nodejs simultaneously.
+use npm run dev 
